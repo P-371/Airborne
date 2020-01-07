@@ -2,9 +2,14 @@
 
 This artwork was created for the KDE Plasma 5.18 [wallpaper competition](https://community.kde.org/KDE_Visual_Design_Group/Plasma_5.18_Wallpaper_Competition)
 
-[View image](https://forum.kde.org/viewtopic.php?f=313&t=163983) on the submission forum
-
 ![Unity version: 2018.4.2](https://img.shields.io/badge/Unity-2018.4.2f1-informational)
+
+## View image
+
+* Screenshots folder
+* [Submission forum](https://forum.kde.org/viewtopic.php?f=313&t=163983)
+* [Google Drive](https://drive.google.com/open?id=1JmANsgrK8ItN0ObMWQcgtY_ddH72cVIX)
+* [Google Drive (Variations)](https://drive.google.com/drive/folders/1DLMdiatgolBSC9LI5P-ND8Hqg_lbh3Hr?usp=sharing)
 
 ## Future
 
