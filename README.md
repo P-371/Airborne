@@ -4,6 +4,8 @@ This artwork was created for the KDE Plasma 5.18 [wallpaper competition](https:/
 
 [View image](https://forum.kde.org/viewtopic.php?f=313&t=163983) on the submission forum
 
+![Unity version: 2018.4.2](https://img.shields.io/badge/Unity-2018.4.2f1-informational)
+
 ## Future
 
 A low poly landscape painter software will be released based on this idea but with drawing tools and bigger customizability so Lua scripting will not be required.
