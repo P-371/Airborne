@@ -7,9 +7,9 @@ These artworks were created for the KDE Plasma 5.18 [wallpaper competition](http
 ## View image
 
 * Screenshots/
-* [submission forum · Airborne](https://forum.kde.org/viewtopic.php?f=313&t=163983)
-* [submission forum · Spiraloides](https://forum.kde.org/viewtopic.php?f=313&t=164170)
-* [Google Drive · Airborne](https://drive.google.com/open?id=1JmANsgrK8ItN0ObMWQcgtY_ddH72cVIX)
+* [Submission Forum · Airborne](https://forum.kde.org/viewtopic.php?f=313&t=163983)
+* [Submission Forum · Spiraloides](https://forum.kde.org/viewtopic.php?f=313&t=164170)
+* [Google Drive · Airborne](https://drive.google.com/drive/folders/1DLMdiatgolBSC9LI5P-ND8Hqg_lbh3Hr)
 * [Google Drive · Spiraloides](https://drive.google.com/drive/folders/1VOkYKs98FMoZPkEAhIl6WujcZrTMOabK?usp=sharing)
 
 ## Future
